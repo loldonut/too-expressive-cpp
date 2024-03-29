@@ -1,3 +1,6 @@
+#ifndef _SYNTAX_H
+#define _SYNTAX_H
+
 #define start {
 #define end }
 #define LShift <<
@@ -16,3 +19,5 @@
 #define dot .
 #define LT <
 #define LTorEQ <=
+
+#endif
